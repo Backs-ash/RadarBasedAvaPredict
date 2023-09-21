@@ -1,2 +1,2 @@
 # RadarBasedAvaPredict
-A radar(SONAR\LIDAR) based real-time avalanche prediction software.
+A radar(SONAR) based real-time avalanche prediction software.
