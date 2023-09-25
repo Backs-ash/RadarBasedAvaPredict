@@ -1,8 +1,8 @@
-# Snow Avalanche Detection with Lidar and Sonar
+# Snow Avalanche Detection with LIDAR and SONAR
 
 ## Introduction
 
-Our project focuses on using Lidar and Sonar technologies for early prediction and mitigation of snow avalanches in vulnerable mountain terrain. This README provides an overview of how these technologies work and their application in snow avalanche detection.
+Our project focuses on using LIDAR and SONAR technologies for early prediction and mitigation of snow avalanches in vulnerable mountain terrain. This ``README`` provides an overview of how these technologies work and their application in snow avalanche detection.
 
 ## Research and Pipeline
 
@@ -42,7 +42,7 @@ Our project focuses on using Lidar and Sonar technologies for early prediction a
 
 ### References
 
-1. [Lidar Measurement of Snow Depth: A Review](https://www.cambridge.org/core/journals/journal-of-glaciology/article/lidar-measurement-of-snow-depth-a-review/4419DF5C778946103080CB6187D434C0#R75)
+1. [LIDAR Measurement of Snow Depth: A Review](https://www.cambridge.org/core/journals/journal-of-glaciology/article/lidar-measurement-of-snow-depth-a-review/4419DF5C778946103080CB6187D434C0#R75)
 2. [Using snow depth observations to provide insight into the quality of snowpack simulations for regional-scale avalanche forecasting](https://www.sciencedirect.com/science/article/pii/S0165232X20304109#:~:text=The%20model%20SURFEX%2FISBA%2DCrocus,up%20to%2050%20snow%20layers.)
 3. [Dynamic Radius Outlier Removal Filter for Snow Noise Removal](https://ieeexplore.ieee.org/document/8575761)
 4. [Additional Reference (Duplicate)](https://www.sciencedirect.com/science/article/pii/S0165232X20304109#:~:text=The%20model%20SURFEX%2FISBA%2DCrocus,up%20to%2050%20snow%20layers.)
