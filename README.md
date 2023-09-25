@@ -28,7 +28,7 @@ Our project focuses on using Lidar and Sonar technologies for early prediction a
 ### Noise Removal in Snowy Conditions
 
 - Falling rain and snow can corrupt sensor measurements, especially for lidar sensors.
-- However there exists a [method]((https://ieeexplore.ieee.org/document/8575761) for removing snow noise using a 3D outlier detection algorithm, the dynamic radius outlier removal filter.
+- However there exists a [method](https://ieeexplore.ieee.org/document/8575761) for removing snow noise using a 3D outlier detection algorithm, the dynamic radius outlier removal filter.
 - This method accounts for variations in point cloud density with increasing distance from the sensor.
 - It effectively removes snow noise while retaining environmental feature detail necessary for autonomous localization and navigation.
 
