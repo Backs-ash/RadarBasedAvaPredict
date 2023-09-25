@@ -22,7 +22,6 @@ Our project focuses on using LIDAR and SONAR technologies for early prediction a
 ### Optical Properties of Ice
 
 - Ice's optical properties are described by the complex refractive index ``(m = n + ik)``, where n describes refraction, and k describes absorption (absorption coefficient).
-- Table 1 provides values of k for ice at common lidar system wavelengths.             // Where is the table?
 - Understanding the sensitivity of light transmission and absorption to snow grain size and liquid water content is crucial for assessing laser interaction with the snow surface.
 
 ### Noise Removal in Snowy Conditions
