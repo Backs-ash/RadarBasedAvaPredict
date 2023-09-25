@@ -47,4 +47,4 @@ Our project focuses on using Lidar and Sonar technologies for early prediction a
 3. [Dynamic Radius Outlier Removal Filter for Snow Noise Removal](https://ieeexplore.ieee.org/document/8575761)
 4. [Additional Reference (Duplicate)](https://www.sciencedirect.com/science/article/pii/S0165232X20304109#:~:text=The%20model%20SURFEX%2FISBA%2DCrocus,up%20to%2050%20snow%20layers.)
 
-These references provide further information and context for the technologies and methods used in your project. Users and contributors can explore these sources for more in-depth knowledge.
+These references provide further information and context for the technologies and methods used in this project. Users and contributors can explore these sources for relevant resources.
