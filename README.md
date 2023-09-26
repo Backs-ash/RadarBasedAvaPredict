@@ -52,7 +52,7 @@ Our project focuses on using LIDAR and SONAR technologies for early prediction a
 
 - This study relies on three key datasets: snowpack simulations, snow depth observations, and avalanche hazard assessments.
 - Snow cover models like Crocus or Snowpack are used to simulate detailed snow properties, aiding avalanche forecasting.
-- Glacier Winter Surface Mass Balance ( GWSMB ) is a dataset based on six glaciers across the French Alpines which contains data about ice and glaciers density and surface mass balance. Additionally, the spatio temporal reconstruction winter glacier mass balance is important for (assessing) [https://tc.copernicus.org/articles/17/977/2023/] long term impacts of climate change on snowpacks.
+- Glacier Winter Surface Mass Balance ( GWSMB ) is a dataset based on six glaciers across the French Alpines which contains data about ice and glaciers density and surface mass balance. Additionally, the spatio temporal reconstruction winter glacier mass balance is important for [assessing](https://tc.copernicus.org/articles/17/977/2023/) long term impacts of climate change on snowpacks.
 
 ### References
 
