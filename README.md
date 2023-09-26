@@ -30,6 +30,21 @@ Our project focuses on using LIDAR and SONAR technologies for early prediction a
 - However there exists a [method](https://ieeexplore.ieee.org/document/8575761) for removing snow noise using a 3D outlier detection algorithm, the dynamic radius outlier removal filter.
 - This method accounts for variations in point cloud density with increasing distance from the sensor.
 - It effectively removes snow noise while retaining environmental feature detail necessary for autonomous localization and navigation.
+# Sonar Technology 
+
+- An ultrasound based non destructive testing will be used alongside the lidar technology to effectively and accurately predict when and where an avalanche would happen. 
+- Through this technology a pulse of longitudanal vibrations will be produced and transmitted into the snowpack, where multiple reflections will take place. A complex system of waves are reflected which include Longitudanal,Shear, Rayleigh and Lamb waves. 
+- These waves will then be caputured into the system through a microphone and the pulse velocity and wavelength of the recieved waves will be used to predict the melting/ deterioaration of the snowpack.
+
+### Structural factors affecting pulse characteristics
+
+- The wavelength and frequency of the wave has a major effect on the probability of detecting an anamoly in the strcuture of a snowpack. Therefore sensitivity and resolution techniques of evaluation will be used to locate the discontinuities in the snowpack.
+
+- Velocity of the differnet pulses reflected  is also [essential](https://eis.hu.edu.jo/ACUploads/10526/Ultrasonic%20Testing.pdf) for evaluation. The following characteristics are evaluated through pulse velocity - 
+
+    * Acoustic Impedence 
+    * Distance of the snowpack from the user
+    * Density of the snowpack
 
 ## Usage and Miscellaneous
 
@@ -37,12 +52,14 @@ Our project focuses on using LIDAR and SONAR technologies for early prediction a
 
 - This study relies on three key datasets: snowpack simulations, snow depth observations, and avalanche hazard assessments.
 - Snow cover models like Crocus or Snowpack are used to simulate detailed snow properties, aiding avalanche forecasting.
-- Logistic regression models predict storm slab avalanche problems based on snowpack data.
+- Glacier Winter Surface Mass Balance ( GWSMB ) is a dataset based on six glaciers across the French Alpines which contains data about ice and glaciers density and surface mass balance. Additionally, the spatio temporal reconstruction winter glacier mass balance is important for (assessing) [https://tc.copernicus.org/articles/17/977/2023/] long term impacts of climate change on snowpacks.
 
 ### References
 
 1. [LIDAR Measurement of Snow Depth: A Review](https://www.cambridge.org/core/journals/journal-of-glaciology/article/lidar-measurement-of-snow-depth-a-review/4419DF5C778946103080CB6187D434C0#R75)
 2. [Using snow depth observations to provide insight into the quality of snowpack simulations for regional-scale avalanche forecasting](https://www.sciencedirect.com/science/article/pii/S0165232X20304109#:~:text=The%20model%20SURFEX%2FISBA%2DCrocus,up%20to%2050%20snow%20layers.)
 3. [Dynamic Radius Outlier Removal Filter for Snow Noise Removal](https://ieeexplore.ieee.org/document/8575761)
+4.  [Crocus](https://gmd.copernicus.org/articles/5/773/2012/gmd-5-773-2012.pdf)
+5.  [Ultrasound testing in Concrete](https://eis.hu.edu.jo/ACUploads/10526/Ultrasonic%20Testing.pdf)
 
 These references provide further information and context for the technologies and methods used in this project. Users and contributors can explore these sources for relevant resources.
