@@ -6,7 +6,7 @@ Our project focuses on using LIDAR and SONAR technologies for early prediction a
 
 ## Research and Pipeline
 
-### Lidar Technology
+## Lidar Technology
 
 - Lidar is an active ranging instrument that measures target distance using the time-of-flight principle.
 - The sensor's position is determined through differential GPS (DGPS) triangulation.
