@@ -1,4 +1,4 @@
-# Snow Avalanche Detection with LIDAR and SONAR
+# Snow Avalanche Detection with LIDAR and INFRARED
 
 Our project focuses on using LIDAR and SONAR technologies for early prediction and mitigation of snow avalanches in vulnerable mountain terrain. This ``README`` provides an overview of how these technologies work and their application in snow avalanche detection.
 
